@@ -7,8 +7,6 @@ Mi raccomando: quello che ci interessa sono: il nome della colonna, il tipo di d
 
 </br>
 
----
-
 | COLONNA               | TIPO          | ATTRIBUTI                            |
 | --------------------- | ------------- | ------------------------------------ |
 | ID AUTO               | BIGINT        | INCREMENT-PRIMATY KEY-AUTO_INCREMENT |
